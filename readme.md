@@ -55,6 +55,7 @@ The project combines data cleaning, exploratory data analysis, cohort analysis, 
 
 ### Page 1 — Executive Overview
 High-level overview of overall business performance.
+<img width="1524" height="853" alt="Screenshot 2026-05-06 121435" src="https://github.com/user-attachments/assets/d863b4e5-081b-4409-8770-6e4a405d0e6c" />
 
 | Visual | Description |
 |---|---|
@@ -63,6 +64,8 @@ High-level overview of overall business performance.
 | Bar Chart | Top 10 Products by Revenue |
 | Bar Chart | Revenue by Country |
 | Column Chart | Revenue by Day of Week |
+
+<img width="1521" height="855" alt="Screenshot 2026-05-06 121346" src="https://github.com/user-attachments/assets/fc181cb3-2eba-4b91-a03f-b91ccda916ee" />
 
 ---
 
@@ -75,6 +78,7 @@ Analyzes customer retention behavior across acquisition cohorts.
 | Column Chart | Cohort Size by Month |
 
 **Key Insight:** Customer retention drops significantly after Month 1, highlighting opportunities for retention-focused marketing strategies.
+<img width="1520" height="851" alt="Screenshot 2026-05-06 121526" src="https://github.com/user-attachments/assets/8c9ce853-52d0-4c26-91c5-399063348af8" />
 
 ---
 
@@ -87,6 +91,7 @@ Deep dive into product demand and country-wise sales contribution.
 | Treemap | Revenue by Country |
 | Scatter Plot | Quantity vs Revenue by Product |
 | Table | Product Revenue Breakdown |
+<img width="1521" height="853" alt="Screenshot 2026-05-06 121602" src="https://github.com/user-attachments/assets/4f42b139-e43a-458c-893b-ec7a2c0bbc7a" />
 
 ---
 
